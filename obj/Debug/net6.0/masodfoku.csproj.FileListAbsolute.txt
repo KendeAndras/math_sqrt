@@ -1,0 +1,14 @@
+C:\Users\f26xc0\Desktop\masodfoku\bin\Debug\net6.0\masodfoku.exe
+C:\Users\f26xc0\Desktop\masodfoku\bin\Debug\net6.0\masodfoku.deps.json
+C:\Users\f26xc0\Desktop\masodfoku\bin\Debug\net6.0\masodfoku.runtimeconfig.json
+C:\Users\f26xc0\Desktop\masodfoku\bin\Debug\net6.0\masodfoku.dll
+C:\Users\f26xc0\Desktop\masodfoku\bin\Debug\net6.0\masodfoku.pdb
+C:\Users\f26xc0\Desktop\masodfoku\obj\Debug\net6.0\masodfoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f26xc0\Desktop\masodfoku\obj\Debug\net6.0\masodfoku.AssemblyInfoInputs.cache
+C:\Users\f26xc0\Desktop\masodfoku\obj\Debug\net6.0\masodfoku.AssemblyInfo.cs
+C:\Users\f26xc0\Desktop\masodfoku\obj\Debug\net6.0\masodfoku.csproj.CoreCompileInputs.cache
+C:\Users\f26xc0\Desktop\masodfoku\obj\Debug\net6.0\masodfoku.dll
+C:\Users\f26xc0\Desktop\masodfoku\obj\Debug\net6.0\refint\masodfoku.dll
+C:\Users\f26xc0\Desktop\masodfoku\obj\Debug\net6.0\masodfoku.pdb
+C:\Users\f26xc0\Desktop\masodfoku\obj\Debug\net6.0\masodfoku.genruntimeconfig.cache
+C:\Users\f26xc0\Desktop\masodfoku\obj\Debug\net6.0\ref\masodfoku.dll
